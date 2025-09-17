@@ -1,3 +1,4 @@
-# These are supported funding model platforms
+# GitHub Sponsors configuration for WASM library infrastructure
+# Supporting the development and maintenance of browser-native computing infrastructure
 
-github: opencv
+github: [superstructor]
